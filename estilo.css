@@ -1,0 +1,54 @@
+body{
+    background-repeat: repeat-y; background-size: cover; 
+    background-image: url(theweek2.jpg);
+    background-color: black;
+   
+    height: 100%;
+    width: 100%;;
+}
+
+style{
+    color: #000;
+}
+a{
+    background-color: #000;
+    color: rgb(255, 255, 255);
+}
+
+img{
+    border-radius: 80px;
+    height: 80px;
+    width: 80px;
+}
+
+.fundo{
+    color: aliceblue;
+    background-color: #00000000;
+}
+
+a:hover, a:active {
+  background-color: gray;
+}
+h1{
+    font-size-adjust: calc(100px);
+}
+
+.fundo{
+    background-color: #000;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border: 90px;
+    color: darkgray;"
+
+}
+
+video{
+    height: 200px;
+    width: 200px;
+}
+
+
+
